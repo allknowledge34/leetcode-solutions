@@ -33,6 +33,7 @@
 | [0085-maximal-rectangle](https://github.com/allknowledge34/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/allknowledge34/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/allknowledge34/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3453-separate-squares-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3453-separate-squares-i) |
 ## Matrix
 |  |
 | ------- |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/allknowledge34/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+## Binary Search
+|  |
+| ------- |
+| [3453-separate-squares-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3453-separate-squares-i) |
 <!---LeetCode Topics End-->
