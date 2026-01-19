@@ -34,6 +34,7 @@
 | [0064-minimum-path-sum](https://github.com/allknowledge34/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/allknowledge34/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/allknowledge34/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/allknowledge34/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/allknowledge34/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1895-largest-magic-square](https://github.com/allknowledge34/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/allknowledge34/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/allknowledge34/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/allknowledge34/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/allknowledge34/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/allknowledge34/leetcode-solutions/tree/master/1895-largest-magic-square) |
 ## Tree
 |  |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/allknowledge34/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/allknowledge34/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 ## Segment Tree
@@ -118,6 +121,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/allknowledge34/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/allknowledge34/leetcode-solutions/tree/master/1895-largest-magic-square) |
 ## Divide and Conquer
 |  |
