@@ -24,6 +24,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/allknowledge34/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/allknowledge34/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/allknowledge34/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/allknowledge34/leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/allknowledge34/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/allknowledge34/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -207,4 +209,8 @@
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/allknowledge34/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
