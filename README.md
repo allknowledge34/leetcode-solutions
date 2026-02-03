@@ -64,6 +64,7 @@
 | [3454-separate-squares-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3637-trionic-array-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/allknowledge34/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Matrix
 |  |
