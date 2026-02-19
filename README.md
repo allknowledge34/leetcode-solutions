@@ -12,6 +12,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/allknowledge34/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/allknowledge34/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0696-count-binary-substrings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/allknowledge34/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Math
 |  |
@@ -131,6 +132,7 @@
 | [0006-zigzag-conversion](https://github.com/allknowledge34/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/allknowledge34/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0067-add-binary](https://github.com/allknowledge34/leetcode-solutions/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/allknowledge34/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
