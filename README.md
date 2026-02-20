@@ -134,6 +134,7 @@
 | [0067-add-binary](https://github.com/allknowledge34/leetcode-solutions/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/allknowledge34/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/allknowledge34/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0761-special-binary-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/allknowledge34/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/allknowledge34/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/allknowledge34/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -201,6 +203,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/allknowledge34/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/allknowledge34/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/allknowledge34/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
