@@ -151,6 +151,7 @@
 | [0761-special-binary-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/allknowledge34/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/allknowledge34/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/allknowledge34/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -255,6 +256,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/allknowledge34/leetcode-solutions/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/allknowledge34/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/allknowledge34/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/allknowledge34/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -301,6 +303,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/allknowledge34/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Binary Search Tree
 |  |
 | ------- |
