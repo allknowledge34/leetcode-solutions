@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/allknowledge34/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/allknowledge34/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
@@ -12,6 +13,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/allknowledge34/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/allknowledge34/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/allknowledge34/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0647-palindromic-substrings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/allknowledge34/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -150,6 +152,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/allknowledge34/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/allknowledge34/leetcode-solutions/tree/master/0169-majority-element) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/allknowledge34/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/allknowledge34/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
