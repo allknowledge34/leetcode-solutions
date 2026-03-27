@@ -65,6 +65,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/allknowledge34/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/allknowledge34/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0064-minimum-path-sum](https://github.com/allknowledge34/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/allknowledge34/leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/allknowledge34/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/allknowledge34/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0169-majority-element](https://github.com/allknowledge34/leetcode-solutions/tree/master/0169-majority-element) |
@@ -298,6 +299,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/allknowledge34/leetcode-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/allknowledge34/leetcode-solutions/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/allknowledge34/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/allknowledge34/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/allknowledge34/leetcode-solutions/tree/master/0338-counting-bits) |
@@ -393,6 +395,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/allknowledge34/leetcode-solutions/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/allknowledge34/leetcode-solutions/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/allknowledge34/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
