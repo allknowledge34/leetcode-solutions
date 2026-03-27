@@ -65,6 +65,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/allknowledge34/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/allknowledge34/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0064-minimum-path-sum](https://github.com/allknowledge34/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/allknowledge34/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/allknowledge34/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0169-majority-element](https://github.com/allknowledge34/leetcode-solutions/tree/master/0169-majority-element) |
 | [0667-beautiful-arrangement-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
@@ -208,11 +209,13 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/allknowledge34/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/allknowledge34/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/allknowledge34/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/allknowledge34/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/allknowledge34/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 ## Geometry
 |  |
