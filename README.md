@@ -80,6 +80,7 @@
 | [0667-beautiful-arrangement-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0724-find-pivot-index](https://github.com/allknowledge34/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/allknowledge34/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0874-walking-robot-simulation](https://github.com/allknowledge34/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1200-minimum-absolute-difference](https://github.com/allknowledge34/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/allknowledge34/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/allknowledge34/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -189,6 +190,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/allknowledge34/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/allknowledge34/leetcode-solutions/tree/master/0169-majority-element) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/allknowledge34/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/allknowledge34/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/allknowledge34/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -357,6 +359,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/allknowledge34/leetcode-solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/allknowledge34/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/allknowledge34/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/allknowledge34/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/allknowledge34/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
