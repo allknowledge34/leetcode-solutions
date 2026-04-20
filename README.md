@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/allknowledge34/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/allknowledge34/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/allknowledge34/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/allknowledge34/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/allknowledge34/leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -230,6 +231,7 @@
 | [0006-zigzag-conversion](https://github.com/allknowledge34/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/allknowledge34/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/allknowledge34/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/allknowledge34/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/allknowledge34/leetcode-solutions/tree/master/0067-add-binary) |
 | [0647-palindromic-substrings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/allknowledge34/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
@@ -465,6 +467,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/allknowledge34/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/allknowledge34/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/allknowledge34/leetcode-solutions/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/allknowledge34/leetcode-solutions/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/allknowledge34/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
