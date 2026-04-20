@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/allknowledge34/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/allknowledge34/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/allknowledge34/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -349,6 +350,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/allknowledge34/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/allknowledge34/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/allknowledge34/leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/allknowledge34/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/0761-special-binary-string) |
@@ -379,6 +381,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/allknowledge34/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/allknowledge34/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/allknowledge34/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -499,4 +502,8 @@
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/allknowledge34/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
