@@ -30,6 +30,7 @@
 | [0062-unique-paths](https://github.com/allknowledge34/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/allknowledge34/leetcode-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/allknowledge34/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0396-rotate-function](https://github.com/allknowledge34/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0667-beautiful-arrangement-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/allknowledge34/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/allknowledge34/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -54,6 +55,7 @@
 | [0064-minimum-path-sum](https://github.com/allknowledge34/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/allknowledge34/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0338-counting-bits](https://github.com/allknowledge34/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0396-rotate-function](https://github.com/allknowledge34/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0647-palindromic-substrings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/allknowledge34/leetcode-solutions/tree/master/0799-champagne-tower) |
@@ -88,6 +90,7 @@
 | [0085-maximal-rectangle](https://github.com/allknowledge34/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/allknowledge34/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/allknowledge34/leetcode-solutions/tree/master/0169-majority-element) |
+| [0396-rotate-function](https://github.com/allknowledge34/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0667-beautiful-arrangement-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0724-find-pivot-index](https://github.com/allknowledge34/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/allknowledge34/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
