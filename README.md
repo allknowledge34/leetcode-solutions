@@ -27,6 +27,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/allknowledge34/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/allknowledge34/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/allknowledge34/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/allknowledge34/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/allknowledge34/leetcode-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/allknowledge34/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -86,6 +87,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/allknowledge34/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/allknowledge34/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/allknowledge34/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/allknowledge34/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/allknowledge34/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/allknowledge34/leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/allknowledge34/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -167,6 +169,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/allknowledge34/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/allknowledge34/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/allknowledge34/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/allknowledge34/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
