@@ -170,6 +170,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/allknowledge34/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/allknowledge34/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/allknowledge34/leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/allknowledge34/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/allknowledge34/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/allknowledge34/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/allknowledge34/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -390,6 +391,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/allknowledge34/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/allknowledge34/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/allknowledge34/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/allknowledge34/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/allknowledge34/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3454-separate-squares-ii) |
@@ -401,6 +403,7 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/allknowledge34/leetcode-solutions/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/allknowledge34/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -647,4 +650,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/allknowledge34/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/allknowledge34/leetcode-solutions/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
