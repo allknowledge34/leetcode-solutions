@@ -17,6 +17,7 @@
 | [0061-rotate-list](https://github.com/allknowledge34/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/allknowledge34/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/allknowledge34/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0455-assign-cookies](https://github.com/allknowledge34/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/allknowledge34/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -123,6 +124,7 @@
 | [0198-house-robber](https://github.com/allknowledge34/leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/allknowledge34/leetcode-solutions/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/allknowledge34/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0455-assign-cookies](https://github.com/allknowledge34/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/allknowledge34/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0667-beautiful-arrangement-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0724-find-pivot-index](https://github.com/allknowledge34/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -435,6 +437,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/allknowledge34/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/allknowledge34/leetcode-solutions/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/allknowledge34/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0761-special-binary-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/allknowledge34/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/allknowledge34/leetcode-solutions/tree/master/1340-jump-game-v) |
@@ -569,6 +572,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/allknowledge34/leetcode-solutions/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/allknowledge34/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1382-balance-a-binary-search-tree](https://github.com/allknowledge34/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/allknowledge34/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/allknowledge34/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
