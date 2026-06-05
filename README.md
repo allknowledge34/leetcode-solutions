@@ -62,6 +62,7 @@
 | [0010-regular-expression-matching](https://github.com/allknowledge34/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/allknowledge34/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/allknowledge34/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/allknowledge34/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/allknowledge34/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/allknowledge34/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/allknowledge34/leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -108,6 +109,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/allknowledge34/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/allknowledge34/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/allknowledge34/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/allknowledge34/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/allknowledge34/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/allknowledge34/leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/allknowledge34/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -563,6 +565,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/allknowledge34/leetcode-solutions/tree/master/0055-jump-game) |
 | [1382-balance-a-binary-search-tree](https://github.com/allknowledge34/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/allknowledge34/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/allknowledge34/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
