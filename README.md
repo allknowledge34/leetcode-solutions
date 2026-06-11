@@ -153,6 +153,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/allknowledge34/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/allknowledge34/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/allknowledge34/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/allknowledge34/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/allknowledge34/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/allknowledge34/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/allknowledge34/leetcode-solutions/tree/master/1861-rotating-the-box) |
@@ -425,6 +426,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/allknowledge34/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/allknowledge34/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/allknowledge34/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/allknowledge34/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/allknowledge34/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/allknowledge34/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/allknowledge34/leetcode-solutions/tree/master/3161-block-placement-queries) |
@@ -463,6 +465,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/allknowledge34/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/allknowledge34/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/allknowledge34/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/allknowledge34/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/allknowledge34/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/allknowledge34/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/allknowledge34/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -497,6 +500,7 @@
 | [0724-find-pivot-index](https://github.com/allknowledge34/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/allknowledge34/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/allknowledge34/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/allknowledge34/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/allknowledge34/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/allknowledge34/leetcode-solutions/tree/master/1895-largest-magic-square) |
@@ -598,6 +602,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/allknowledge34/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/allknowledge34/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/allknowledge34/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/allknowledge34/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/allknowledge34/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/allknowledge34/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/allknowledge34/leetcode-solutions/tree/master/2126-destroying-asteroids) |
@@ -614,6 +619,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/allknowledge34/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/allknowledge34/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/allknowledge34/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
