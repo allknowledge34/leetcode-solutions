@@ -76,6 +76,7 @@
 | [0322-coin-change](https://github.com/allknowledge34/leetcode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/allknowledge34/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/allknowledge34/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0516-longest-palindromic-subsequence](https://github.com/allknowledge34/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/allknowledge34/leetcode-solutions/tree/master/0788-rotated-digits) |
@@ -365,6 +366,7 @@
 | [0022-generate-parentheses](https://github.com/allknowledge34/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/allknowledge34/leetcode-solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/allknowledge34/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0516-longest-palindromic-subsequence](https://github.com/allknowledge34/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/allknowledge34/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0696-count-binary-substrings) |
