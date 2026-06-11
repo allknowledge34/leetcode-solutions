@@ -70,6 +70,7 @@
 | [0062-unique-paths](https://github.com/allknowledge34/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/allknowledge34/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/allknowledge34/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/allknowledge34/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/allknowledge34/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/allknowledge34/leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/allknowledge34/leetcode-solutions/tree/master/0322-coin-change) |
@@ -363,6 +364,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/allknowledge34/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/allknowledge34/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/allknowledge34/leetcode-solutions/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/allknowledge34/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0647-palindromic-substrings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/allknowledge34/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0696-count-binary-substrings) |
