@@ -47,6 +47,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/allknowledge34/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/allknowledge34/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [1266-minimum-time-visiting-all-points](https://github.com/allknowledge34/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/allknowledge34/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/allknowledge34/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/allknowledge34/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/allknowledge34/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
