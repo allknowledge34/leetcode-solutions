@@ -247,6 +247,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/allknowledge34/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -375,6 +376,7 @@
 | [3714-longest-balanced-substring-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/allknowledge34/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -479,6 +481,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Line Sweep
 |  |
 | ------- |
@@ -552,6 +555,7 @@
 | [3714-longest-balanced-substring-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -565,6 +569,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -703,6 +708,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/allknowledge34/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2833-furthest-point-from-origin](https://github.com/allknowledge34/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -748,6 +754,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/allknowledge34/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Number Theory
 |  |
 | ------- |
