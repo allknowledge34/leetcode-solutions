@@ -90,6 +90,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/allknowledge34/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/allknowledge34/leetcode-solutions/tree/master/0799-champagne-tower) |
+| [1301-number-of-paths-with-max-score](https://github.com/allknowledge34/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/allknowledge34/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/allknowledge34/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/allknowledge34/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -154,6 +155,7 @@
 | [1200-minimum-absolute-difference](https://github.com/allknowledge34/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/allknowledge34/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/allknowledge34/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/allknowledge34/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/allknowledge34/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/allknowledge34/leetcode-solutions/tree/master/1345-jump-game-iv) |
@@ -269,6 +271,7 @@
 | [0085-maximal-rectangle](https://github.com/allknowledge34/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0733-flood-fill](https://github.com/allknowledge34/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/allknowledge34/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/allknowledge34/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/allknowledge34/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/allknowledge34/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/allknowledge34/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
