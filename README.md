@@ -380,6 +380,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/allknowledge34/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/allknowledge34/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0160-intersection-of-two-linked-lists](https://github.com/allknowledge34/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/allknowledge34/leetcode-solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -428,6 +429,7 @@
 | [0010-regular-expression-matching](https://github.com/allknowledge34/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/allknowledge34/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/allknowledge34/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/allknowledge34/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0067-add-binary](https://github.com/allknowledge34/leetcode-solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/allknowledge34/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/allknowledge34/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -731,6 +733,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/allknowledge34/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0239-sliding-window-maximum](https://github.com/allknowledge34/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/allknowledge34/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/allknowledge34/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
