@@ -439,6 +439,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/allknowledge34/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/allknowledge34/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/allknowledge34/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/allknowledge34/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -478,6 +479,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/allknowledge34/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/allknowledge34/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/allknowledge34/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/allknowledge34/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/allknowledge34/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/allknowledge34/leetcode-solutions/tree/master/2751-robot-collisions) |
@@ -488,6 +490,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/allknowledge34/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/allknowledge34/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/allknowledge34/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Geometry
 |  |
 | ------- |
@@ -711,6 +714,7 @@
 | [0045-jump-game-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/allknowledge34/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/allknowledge34/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/allknowledge34/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/allknowledge34/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/allknowledge34/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/allknowledge34/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
