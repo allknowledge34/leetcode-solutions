@@ -61,6 +61,7 @@
 | [1622-fancy-sequence](https://github.com/allknowledge34/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/allknowledge34/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/allknowledge34/leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/allknowledge34/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/allknowledge34/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/allknowledge34/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -131,6 +132,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/allknowledge34/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/allknowledge34/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2463-minimum-total-distance-traveled](https://github.com/allknowledge34/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/allknowledge34/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/allknowledge34/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -229,6 +231,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/allknowledge34/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/allknowledge34/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/allknowledge34/leetcode-solutions/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/allknowledge34/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/allknowledge34/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/allknowledge34/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -685,6 +688,7 @@
 | [1732-find-the-highest-altitude](https://github.com/allknowledge34/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/allknowledge34/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/allknowledge34/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/allknowledge34/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [2574-left-and-right-sum-differences](https://github.com/allknowledge34/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -995,6 +999,7 @@
 | [1406-stone-game-iii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/allknowledge34/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/allknowledge34/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/allknowledge34/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/allknowledge34/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -1002,12 +1007,14 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/allknowledge34/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/allknowledge34/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/allknowledge34/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/allknowledge34/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
