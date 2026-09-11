@@ -303,6 +303,7 @@
 | [3454-separate-squares-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/allknowledge34/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/allknowledge34/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/allknowledge34/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/allknowledge34/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -488,6 +489,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/allknowledge34/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/allknowledge34/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/allknowledge34/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/allknowledge34/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -701,6 +703,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/allknowledge34/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/allknowledge34/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -924,6 +927,7 @@
 | [0231-power-of-two](https://github.com/allknowledge34/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/allknowledge34/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/allknowledge34/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
