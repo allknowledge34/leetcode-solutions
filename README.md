@@ -580,6 +580,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/allknowledge34/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -847,6 +848,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/allknowledge34/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/allknowledge34/leetcode-solutions/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
