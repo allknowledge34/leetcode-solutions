@@ -448,6 +448,7 @@
 | [0322-coin-change](https://github.com/allknowledge34/leetcode-solutions/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/allknowledge34/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/allknowledge34/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1096-brace-expansion-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/allknowledge34/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/allknowledge34/leetcode-solutions/tree/master/1345-jump-game-iv) |
@@ -484,6 +485,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/allknowledge34/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/allknowledge34/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/allknowledge34/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
+| [1096-brace-expansion-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/allknowledge34/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/allknowledge34/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/allknowledge34/leetcode-solutions/tree/master/1345-jump-game-iv) |
@@ -554,6 +556,7 @@
 | [0796-rotate-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/allknowledge34/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/allknowledge34/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/allknowledge34/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/allknowledge34/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -610,6 +613,7 @@
 | [0085-maximal-rectangle](https://github.com/allknowledge34/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/allknowledge34/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/allknowledge34/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/allknowledge34/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/allknowledge34/leetcode-solutions/tree/master/2751-robot-collisions) |
@@ -689,6 +693,7 @@
 | [0455-assign-cookies](https://github.com/allknowledge34/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/allknowledge34/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/0761-special-binary-string) |
+| [1096-brace-expansion-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/allknowledge34/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/allknowledge34/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/allknowledge34/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -995,6 +1000,7 @@
 | [0022-generate-parentheses](https://github.com/allknowledge34/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/allknowledge34/leetcode-solutions/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/allknowledge34/leetcode-solutions/tree/master/0401-binary-watch) |
+| [1096-brace-expansion-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/allknowledge34/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/allknowledge34/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
