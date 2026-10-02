@@ -1,25 +1,23 @@
 class Solution {
-  public List<String> generateParenthesis(int n) {
-    List<String> ans = new ArrayList<>();
-    dfs(n, n, new StringBuilder(), ans);
-    return ans;
-  }
+    List<String> res = new ArrayList<>();
 
-  private void dfs(int l, int r, StringBuilder sb, List<String> ans) {
-    if (l == 0 && r == 0) {
-      ans.add(sb.toString());
-      return;
+    public List<String> generateParenthesis(int n) {
+        if (n-- == 1) return List.of("()");
+        dfs(n, n, "(");
+
+        return res;
     }
 
-    if (l > 0) {
-      sb.append("(");
-      dfs(l - 1, r, sb, ans);
-      sb.deleteCharAt(sb.length() - 1);
+    private void dfs(int O, int C, String s) {
+        if (O == 0 && C == 0) {
+            res.add(s + ")");
+            return;
+        }
+
+        if (O > 0)
+            dfs(O - 1, C, s + "(");
+
+        if (C >= O)
+            dfs(O, C - 1, s + ")");
     }
-    if (l < r) {
-      sb.append(")");
-      dfs(l, r - 1, sb, ans);
-      sb.deleteCharAt(sb.length() - 1);
-    }
-  }
 }
