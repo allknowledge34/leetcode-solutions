@@ -575,6 +575,7 @@
 | [0022-generate-parentheses](https://github.com/allknowledge34/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/allknowledge34/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/allknowledge34/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/allknowledge34/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/allknowledge34/leetcode-solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/allknowledge34/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/allknowledge34/leetcode-solutions/tree/master/0115-distinct-subsequences) |
