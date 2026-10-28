@@ -182,6 +182,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/allknowledge34/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/allknowledge34/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
@@ -390,6 +391,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/allknowledge34/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/allknowledge34/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/allknowledge34/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -435,6 +437,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/allknowledge34/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/allknowledge34/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/allknowledge34/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/allknowledge34/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -909,6 +912,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/allknowledge34/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/allknowledge34/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/allknowledge34/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/allknowledge34/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
