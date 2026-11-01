@@ -49,6 +49,7 @@
 | [0070-climbing-stairs](https://github.com/allknowledge34/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/allknowledge34/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/allknowledge34/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/allknowledge34/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/allknowledge34/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/allknowledge34/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0667-beautiful-arrangement-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
@@ -216,6 +217,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/allknowledge34/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/allknowledge34/leetcode-solutions/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/allknowledge34/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/allknowledge34/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/allknowledge34/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/allknowledge34/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/0496-next-greater-element-i) |
