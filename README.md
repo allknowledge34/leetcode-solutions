@@ -23,6 +23,7 @@
 | [0455-assign-cookies](https://github.com/allknowledge34/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/allknowledge34/leetcode-solutions/tree/master/0696-count-binary-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/allknowledge34/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/allknowledge34/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/allknowledge34/leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/allknowledge34/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -248,6 +249,7 @@
 | [1340-jump-game-v](https://github.com/allknowledge34/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/allknowledge34/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/allknowledge34/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/allknowledge34/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/allknowledge34/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/allknowledge34/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/allknowledge34/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -730,6 +732,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/allknowledge34/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/allknowledge34/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/allknowledge34/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/allknowledge34/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/allknowledge34/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/allknowledge34/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/allknowledge34/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -791,6 +794,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/allknowledge34/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/allknowledge34/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/allknowledge34/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/allknowledge34/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/allknowledge34/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/allknowledge34/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/allknowledge34/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
