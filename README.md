@@ -353,6 +353,7 @@
 | [3379-transformed-array](https://github.com/allknowledge34/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/allknowledge34/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/allknowledge34/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/allknowledge34/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3453-separate-squares-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/allknowledge34/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -717,6 +718,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/allknowledge34/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/allknowledge34/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/allknowledge34/leetcode-solutions/tree/master/2751-robot-collisions) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/allknowledge34/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -725,6 +727,7 @@
 | [0085-maximal-rectangle](https://github.com/allknowledge34/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/allknowledge34/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/allknowledge34/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Geometry
 |  |
 | ------- |
@@ -778,6 +781,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/allknowledge34/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/allknowledge34/leetcode-solutions/tree/master/3161-block-placement-queries) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/allknowledge34/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -1075,6 +1079,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/allknowledge34/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/allknowledge34/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/allknowledge34/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/allknowledge34/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/allknowledge34/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3634-minimum-removals-to-balance-array](https://github.com/allknowledge34/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Graph Theory
@@ -1220,10 +1225,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/allknowledge34/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/allknowledge34/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/allknowledge34/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/allknowledge34/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting Sort
 |  |
 | ------- |
